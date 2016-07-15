@@ -1,12 +1,53 @@
 ---
 layout: page
 title: Latest Posts
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+excerpt: A simple and clean responsive Jekyll theme for words and photos.
 search_omit: true
+published: true
 ---
 
-<ul class="post-list">
+<!-- <ul class="post-list">
 {% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
+</ul> -->
+
+
+<!-- <div style="
+width: 100%;
+font-size: 20px;
+padding: 10px 10px 10px 20px;
+margin-bottom: 45px;
+box-shadow: 2px 2px 5px 1px rgb(204, 204, 204);
+background: url(/images/bg_main_01.png) no-repeat;
+height: 200px">
+</div> -->
+
+<div style="
+width: 30%;
+font-weight: bold; 
+font-size: 28px;
+margin-left: 15px;
+padding-left: 10px;
+margin-bottom: 15px;
+border-bottom: 1px solid #CCCCCC"><em>Latest Posts</em></div>
+<ul class="post-list">
+
+{% for post in site.posts limit:10 %} 
+  
+  <li style="border-bottom: 0px solid; margin-bottom: 12px">
+    <article>
+        <a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 1.355rem">{{ post.title }}
+            <em class="entry-date" style="float: none;"><br>
+                <span style="font-size: 11px">posted on </span>
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%B %d, %Y" }}
+                </time>
+            </em>
+        </a>
+    </article>
+  </li>
+
+{% endfor %}
+
 </ul>
