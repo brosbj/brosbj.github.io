@@ -45,14 +45,14 @@ owner:
   github: brosbj
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: brosbj
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-80659403-1
     verify:
     ad-client:
     ad-slot:
