@@ -47,8 +47,11 @@
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
         {% endif %}
-      </div><!-- /.entry-content -->
+  		<!--{% include adsense.html %}-->
+   		{% include facebook.html %}
+  		</div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
+  
     <nav class="pagination" role="navigation">
       {% if page.previous %}
         <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
@@ -58,9 +61,6 @@
       {% endif %}
     </nav><!-- /.pagination -->
   </article>
-<!--{% include adsense.html %}-->
-{% include facebook.html %}
-
 </div><!-- /#main -->
 
 <div class="footer-wrapper">
