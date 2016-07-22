@@ -1,26 +1,25 @@
 ---
 layout: page
 title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+excerpt: So Simple is a responsive Jekyll theme for your words and images.
+modified: {}
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: 'http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/'
+published: true
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+## 이 곳은-
+개발 관련 내용과 신변 잡기/취미생활의 기록을 남기는 곳입니다.
 
-## So Simple Theme is all about:
+임베디드 개발로 시작하여, 
+Android 단말 개발을 하다가 현재 Android 앱쟁이가 되어있는 과정의 기록
+그 동안 쌓여있는 정답이 아닌 이야기-
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+C/C++/Java & More
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
-[^1]: Example: *domain.com/category-name/post-title*
+### Contact me
+
+[brosbj@gmail.com](mailto:brosbj@gmail.com)
