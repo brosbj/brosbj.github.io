@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Android 개발을 2010년부터 시작했으니, 
 6년여를 넘게 해오고 있는데-
@@ -11,7 +11,7 @@ Android 개발을 2010년부터 시작했으니,
 Netflix등등 어마어마한 개발 진영들에 의해 변화가 많이 이루어지고 있으며, 
 지금은 딱 과도기가 아닐까 하는 생각이 든다.
 
-
+---
 ### RxJava
 Netflix에서 닷넷에서 사용되던 리액티브 관련 기술을 Java에 적용시켜 만들어버렸고,
 SoundCloud쪽에서 Android에도 적용가능한 RxAndroid로 확장까지 시켜버렸는데-
