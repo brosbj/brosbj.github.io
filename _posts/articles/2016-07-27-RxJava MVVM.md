@@ -1,5 +1,17 @@
 ---
 published: true
+layout: post
+title: MathJax Example
+modified: null
+categories: article
+excerpt: null
+tags:
+  - RxJava
+  - MVVM
+  - MVP
+image:
+  feature: null
+date: 2016-07-27T12:08:50.000Z
 ---
 Android 개발을 2010년부터 시작했으니, 
 6년여를 넘게 해오고 있는데-
