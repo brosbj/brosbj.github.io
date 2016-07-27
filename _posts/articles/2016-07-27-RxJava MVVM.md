@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: MathJax Example
+title: 'RxJava, MVP, MVVP & ... '
 modified: null
 categories: article
 excerpt: null
