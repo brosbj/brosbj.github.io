@@ -68,9 +68,10 @@ SoundCloud쪽에서 Android에도 적용가능한 RxAndroid로 확장까지 시�
 확실히 정답이 없는 문제는 공감대도 형성하기 어렵고, 설득도 쉽지가 않다.
 
 
-
+### Google에서 제공한 DataBinding
 ---
 [DataBinding 예제](https://developer.android.com/topic/libraries/data-binding/index.html)
 
+### 최범균님의 MVP 소개 SlideShare
 ---
 [MVP소개](http://www.slideshare.net/madvirus/mvp-63161829)
