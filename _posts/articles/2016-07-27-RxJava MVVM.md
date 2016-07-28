@@ -11,7 +11,8 @@ tags:
   - MVP
 image:
   feature: null
-date: {}
+date:
+  2016.07.28: null
 ---
 Android 개발을 2010년부터 시작했으니, 
 6년여를 넘게 해오고 있는데-
