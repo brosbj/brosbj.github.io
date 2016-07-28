@@ -76,7 +76,8 @@ SoundCloud쪽에서 Android에도 적용가능한 RxAndroid로 확장까지 시�
 
 #### 참고자료 : 
 ---
-##### [Google Doc DataBinding](https://developer.android.com/topic/libraries/data-binding/index.html)
-##### [최범균님 MVP소개 SlideShare](http://www.slideshare.net/madvirus/mvp-63161829)
+[Google Doc DataBinding](https://developer.android.com/topic/libraries/data-binding/index.html)
+
+[최범균님 MVP소개 SlideShare](http://www.slideshare.net/madvirus/mvp-63161829)
 
 
