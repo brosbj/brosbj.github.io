@@ -11,7 +11,7 @@ tags:
   - MVP
 image:
   feature: null
-date: 2016-07-28T11:00:50.000Z
+date: {}
 ---
 Android 개발을 2010년부터 시작했으니, 
 6년여를 넘게 해오고 있는데-
@@ -76,10 +76,10 @@ SoundCloud쪽에서 Android에도 적용가능한 RxAndroid로 확장까지 시�
 
 참고자료 : 
 
-#### Google에서 제공한 DataBinding
+###### > Google에서 제공한 DataBinding
 ---
 [DataBinding](https://developer.android.com/topic/libraries/data-binding/index.html)
 
-#### 최범균님의 MVP 소개 SlideShare
+###### > 최범균님의 MVP 소개 SlideShare
 ---
 [MVP](http://www.slideshare.net/madvirus/mvp-63161829)
