@@ -11,7 +11,7 @@ tags:
   - MVP
 image:
   feature: null
-date: {}
+date: 2016-07-27T12:08:50.000Z
 ---
 Android 개발을 2010년부터 시작했으니, 
 6년여를 넘게 해오고 있는데-
@@ -56,6 +56,7 @@ SoundCloud쪽에서 Android에도 적용가능한 RxAndroid로 확장까지 시�
 많이 보고 있다.
 
 ---
+
 결과적으론 MVP, MVVM이던 MVW(Whatever) 든지 간에 
 이것 만이 현재 정답이라는 부분은 없는 것으로 보이고,
 상황에 맞게 적용하는 것-
