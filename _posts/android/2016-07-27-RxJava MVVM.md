@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'RxJava, MVP, MVVP &'
 modified: null
-categories: article
+categories: android
 excerpt: null
 tags:
   - RxJava
