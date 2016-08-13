@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'Android 개발 언어'
+title: 'Android Java & Kotlin..'
 modified: null
 categories: android
 excerpt: null
