@@ -29,6 +29,8 @@ kramdown:
   enable_coderay: false
 
 mathjax: true
+share: true
+
 
 # Enter your Facebook app-code
 facebook_user_id: brosbj
