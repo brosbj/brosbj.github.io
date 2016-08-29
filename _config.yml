@@ -5,6 +5,7 @@ locale: en_US
 description: Dev Blog
 logo: site-logo.png
 search: true
+share : true
 url: https://brosbj.github.io
 
 # Jekyll configuration
